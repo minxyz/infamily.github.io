@@ -2,8 +2,7 @@
 To integrate our efforts and pursue goals together.
 
 ### How is Infinity proposed language different than vocabularies available today?
-Infinity organizes data around goals, ideas and plans. This way, it's easy to cooperate around missions 
-and replicate solutions in different locations.
+Infinity organizes all data. It strives to serve a purpose of being a vocubulary of vocabularies.
 
 We support an idea of openness and transparency. Our goal is to organize and provide data openly to public, so that everyone can benefit from it.
 
@@ -14,8 +13,5 @@ If you’re an organisation, contact us to donate data and make it openly availa
 so that everyone can use it to solve humanity’s challenges. 
 The process will be managed by [WeFindX](https://wefindx.org) team and 
 the data will be published through a digital platform the Infinity Project.
-
-### What data can organizations donate?
-Humanities challenges, for example specified [SDGs](https://sustainabledevelopment.un.org/sdgs) and procedural know-how from projects that use technology and science for good.
 
 Contact us at [ideas@infinity.family](mailto:ideas@infinity.family).
