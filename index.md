@@ -1,37 +1,15 @@
-## ^___^
+## Helping the World Define and Pursue Goals
 
-You can use the [editor on GitHub](https://github.com/infamily/infamily.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Infinity Family is a group of organizations with a shared mission to help the world cooperate and create a formal universally understandable language for data sharing between cultures.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Solution
 
-### Markdown
+We propose a vocabulary rooted in neutral mathematical equation model, intended as a basis for an open solution for linked data that allows data publishers to showcase the intent and the substance of actions.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Become a Member
 
-```markdown
-Syntax highlighted code block
+Join the Infinity Family to mutually share data and make sites inter-operable. 
 
-# Header 1
-## Header 2
-### Header 3
+If you’re a subject matter expert, join us to review encoded understanding models at wefindx.net.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/infamily/infamily.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you’re an organisation, contact us to donate data and make it openly available for public, so that everyone can use it to solve humanity’s challenges. The process is managed by WeFindX and the data will be published through a digital platform the Infinity Project.
