@@ -4,7 +4,7 @@ Infinity Family is a group of organizations with a shared mission to help the wo
 
 ### Solution
 
-We propose a vocabulary rooted in neutral mathematical equation model, intended as a basis for an open solution for linked data that allows data publishers to showcase the intent and the substance of actions.
+We propose a meta-vocabulary rooted in neutral mathematical equation model, intended as a basis for an open solution for linked data that allows data publishers to showcase the intent and the substance of actions.
 
 ### Become a Member
 
