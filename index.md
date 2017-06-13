@@ -10,6 +10,6 @@ We propose a vocabulary rooted in neutral mathematical equation model, intended 
 
 Join the Infinity Family to mutually share data and make sites inter-operable. 
 
-If you’re a subject matter expert, join us to review encoded understanding models at wefindx.net.
+If you’re a subject matter expert, join us to review encoded understanding models at [wefindx.net](https://wefindx.net).
 
-If you’re an organisation, contact us to donate data and make it openly available for public, so that everyone can use it to solve humanity’s challenges. The process is managed by WeFindX and the data will be published through a digital platform the Infinity Project.
+If you’re an organisation, contact us to donate data and make it openly available for public, so that everyone can use it to solve humanity’s challenges. The process is managed by [WeFindX](https://wefindx.org) and the data will be published through a digital platform the Infinity Project.
