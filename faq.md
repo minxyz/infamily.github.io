@@ -2,12 +2,12 @@
 To integrate our efforts and pursue goals together.
 
 ### How is Infinity proposed language different than vocabularies available today?
-Infinity organizes all data. It strives to serve a purpose of being a vocubulary of vocabularies.
+Infinity organizes all data. It strives to serve a purpose of being a meta-vocubulary for vocabularies.
 
 We support an idea of openness and transparency. Our goal is to organize and provide data openly to public, so that everyone can benefit from it.
 
 ### I want to help. How do I get involved?
-If you’re a subject matter expert from mathematics, ontology, robotics or open knowledge, join us to review models at [wefindx.net](wefindx.net). 
+If you’re a subject matter expert from mathematics, ontology, robotics or open knowledge, join us to review models at [wefindx.net](http://wefindx.net). 
 
 If you’re an organisation, contact us to donate data and make it openly available for public, 
 so that everyone can use it to solve humanity’s challenges. 
