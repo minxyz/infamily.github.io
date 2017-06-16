@@ -7,11 +7,8 @@ Infinity organizes all data in context of purpose. It strives to serve a purpose
 We support an idea of openness and transparency. Our goal is to organize and provide data openly to public, so that everyone can benefit from it.
 
 ### I want to help. How do I get involved?
-If you’re a subject matter expert from mathematics, ontology, robotics or open knowledge, join us to review models at [wefindx.net](http://wefindx.net). 
+If you’re a subject matter expert from mathematics, ontology, robotics or open knowledge, join us to review encoded understanding models at [wefindx.net](http://wefindx.net).
 
-If you’re an organisation, contact us to donate data and make it openly available for public, 
-so that everyone can use it to solve humanity’s challenges. 
-The process will be managed by [WeFindX](https://wefindx.org) team and 
-the data will be published here and through a digital platform - the Infinity Project.
+If your organisation would like to donate data, join us. The process is curated by [WeFindX](https://wefindx.org) team and the updates will be published through the page of proposal, and a digital platform - the Infinity Project.
 
-Contact us at [ideas@infinity.family](mailto:ideas@infinity.family).
+Send e-mail to [ideas@infinity.family](mailto:ideas@infinity.family).
