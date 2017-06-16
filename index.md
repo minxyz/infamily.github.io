@@ -8,12 +8,9 @@ We propose a meta-vocabulary rooted in neutral mathematical equation model, inte
 
 ### Become a Member
 
-Join the Infinity Family to mutually share data and make sites goal-aligned. 
+Join the Infinity Family to express your support. 
 
-If you're a subject matter expert, join us to review encoded understanding models at [wefindx.net](http://wefindx.net).
+Send e-mail to [ideas@infinity.family](mailto:ideas@infinity.family). Mention what username you'd like.
 
-If you're an organisation, contact us to donate data and make it openly available for public, so that everyone can use it to solve humanity's challenges. The process is curated by [WeFindX](https://wefindx.org) and the updates will be published through the page of proposal, and a digital platform - the Infinity Project.
-
-#### Read [FAQ](/faq)
-
-#### Contact us at [ideas@infinity.family](mailto:ideas@infinity.family).
+---
+View more at [FAQ](/faq).
