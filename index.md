@@ -10,7 +10,7 @@ We propose a meta-vocabulary rooted in neutral mathematical equation model, inte
 
 Join the Infinity Family to express your support. 
 
-Send e-mail to [ideas@infinity.family](mailto:ideas@infinity.family). Mention what username you'd like.
+Send e-mail to [ideas@infinity.family](mailto:ideas@infinity.family). Mention your organization name. 
 
 ---
 View more at [FAQ](/faq).
