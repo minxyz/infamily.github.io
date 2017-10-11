@@ -1,9 +1,9 @@
 ## Helping the World Define and Pursue Goals <sup>[*](/assets/images/infty.mp4)</sup>
 Infinity Family is a group of organizations with a shared mission to help the world cooperate and create a formal universally understandable language for intent sharing between cultures and entities in general. Collectively, we strive for the world where everything that anyone truly wishes would exist.
 
-### Solution
+### Solutions
 
-We propose a [meta-vocabulary](http://wefindx.net) rooted in neutral mathematical equation model, intended as a basis for an open solution for linked data that allows data exchange platforms to showcase the intent and the substance of actions.
+#1 We propose a [meta-vocabulary](http://wefindx.net) rooted in neutral mathematical equation model, intended as a basis for an open solution for linked data that allows data exchange platforms to showcase the intent and the substance of actions.
 
 ### Become a Member
 
