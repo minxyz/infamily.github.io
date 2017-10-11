@@ -3,7 +3,7 @@ Infinity Family is a group of organizations with a shared mission to help the wo
 
 ### Solutions
 
-#1 We propose a [meta-vocabulary](http://wefindx.net) rooted in neutral mathematical equation model, intended as a basis for an open solution for linked data that allows data exchange platforms to showcase the intent and the substance of actions.
+- We propose a [meta-vocabulary](http://wefindx.net) rooted in neutral mathematical equation model, intended as a basis for an open solution for linked data that allows data exchange platforms to showcase the intent and the substance of actions.
 
 ### Become a Member
 
