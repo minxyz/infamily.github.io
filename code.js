@@ -6,6 +6,9 @@ if (location.pathname.indexOf('/plaintext/') > -1) {
   var BASE_PATH = '/plaintext/';
 }
 
+var browser_language = navigator.language || navigator.userLanguage; 
+var default_language = browser_language.substr(0, 2).toLowerCase();
+
 function includejQuery(callback) {
     if(window.jQuery)
     {
@@ -54,12 +57,30 @@ includejQuery(function($){
 
     $(document).ready(function(){
 
-        if (!(languages.indexOf(localStorage.getItem("lang")) > -1)) {
-            localStorage["lang"] = set_language(fallback_language);
+        if (!(localStorage['lang'] == null)) {
+
+
+            if (languages.indexOf(localStorage['lang']) > -1) {
+                localStorage["lang"] = set_language(localStorage["lang"]);
+            }
+            else if (languages.indexOf(default_language) > -1) {
+                localStorage["lang"] = set_language(default_language);
+            }
+
+            else {
+                localStorage["lang"] = set_language(fallback_language);
+            }
+
+        }
+        else if (languages.indexOf(default_language) > -1) {
+            localStorage["lang"] = set_language(default_language);
         }
         else {
-            localStorage["lang"] = set_language(localStorage["lang"]);
+            localStorage["lang"] = set_language(fallback_language);
         }
+
+
+
 
         // $("#select").val(default_language);
         $("#select").bind("change", function() {
@@ -73,8 +94,6 @@ includejQuery(function($){
 
 function language_widget(languages, language_names) {
 
-    var browser_language = navigator.language || navigator.userLanguage; 
-    var default_language = browser_language.substr(0, 2).toLowerCase();
 
     if (!(localStorage['lang'] == null)) {
         if (languages.indexOf(localStorage['lang']) > -1) {
