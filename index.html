@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Plain Text</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="./style.css">
+    <script type="text/javascript" src="./code.js"></script>
+
+    <!-- Style -->
+    <style>
+    .language { 
+        position: fixed;
+        bottom: 5px;
+        right: 5px;
+        padding: 5px;
+        background-color:grey; 
+    }
+
+    </style>
+    <!-- /Style -->
+
+    <!-- Code -->
+    <script type='text/javascript'>//<![CDATA[
+    var languages = ["zh", "en"];
+    var language_names = ["中文", "English"];
+    var fallback_language = "en";
+
+    window.onload = function() {
+        document.body.appendChild(
+            language_widget(languages, language_names));
+    };
+
+    //]]>
+    </script>
+    <!-- /Code -->
+
+</head>
+
+<body>
+
+<div class="main">
+<h1>
+    <span class="en">Infinity Family</span>
+    <span class="zh">无限家庭</span>
+</h1>
+
+<h2>
+    <span class="en">How this place work?</span>
+    <span class="zh">这个地方如何操作？</span>
+</h2>
+
+<p>
+<span class="en">We believe, that technologies that we use, should be made understandable to people. You came here to learn. <br><br><font color="grey">Proceed.</font></span>
+    <span class="zh">我们觉得我们应该大家理解我们用的技术。你来这里学习！<br><br><font color="grey">清进行。</font></span>
+</p>
+
+
+</div>
+
+</body>
+</html>
+
